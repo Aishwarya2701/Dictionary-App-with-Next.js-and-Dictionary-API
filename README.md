@@ -1,8 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![Screenshot 2024-06-18 134637](https://github.com/Aishwarya2701/Dictionary-App-with-Next.js-and-Dictionary-API/assets/74247717/39549fe7-6e84-4d6c-87e9-6b74adf6432c)
+![Screenshot 2024-06-18 134646](https://github.com/Aishwarya2701/Dictionary-App-with-Next.js-and-Dictionary-API/assets/74247717/22d2e093-1a29-4567-804b-3c223de69113)
+
+
 ## Getting Started
 
-First, run the development server:
+First, run 
+      npm install
+      
+then run the development server:
 
 ```bash
 npm run dev
